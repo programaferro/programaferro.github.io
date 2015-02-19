@@ -201,7 +201,12 @@
 }
 
 .page-heading {
-    font-size: 20px;
+    font-size: 14px;
+    background: $grey-color-light;
+    color: $grey-color-dark;
+    padding: 5px 10px;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 
 .post-list {

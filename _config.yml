@@ -1,10 +1,10 @@
 # Site settings
 title: Programa Ferro
-email: your-email@domain.com
+email: programaferro@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
       A critical analysis of the scriptures to sharpen and strengthen your faith. Listen live Saturdays at 12pm on 89.1 Florianopolis, Brazil. Listen to our previous shows now!
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://programaferro.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
