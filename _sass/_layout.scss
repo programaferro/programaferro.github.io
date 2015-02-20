@@ -113,7 +113,7 @@
     color: $grey-color;
     a{
           color: $grey-color;
-          margin: 0 5px;
+          margin: 0 10px;
           &:hover{
             color: $brand-color;
           }
@@ -201,12 +201,13 @@
 }
 
 .page-heading {
-    font-size: 14px;
-    background: $grey-color-light;
-    color: $grey-color-dark;
+    font-size: 10px;
+    background: #000;
+    color:$grey-color-light;
     padding: 5px 10px;
     font-weight: bold;
     text-transform: uppercase;
+    border-radius: 3px;
 }
 
 .post-list {
