@@ -1,3 +1,4 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:100,400,700);
 /**
  * Reset some basic elements
  */
@@ -11,13 +12,17 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  font-weight: 300;
+  font-weight: 400;
   color: #111;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%; }
+
+em {
+  font-weight: 100;
+  font-style: normal; }
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -58,7 +63,7 @@ li > ol {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 300; }
+  font-weight: 700; }
 
 /**
  * Links
@@ -210,7 +215,8 @@ pre {
   border-top: 1px solid #e8e8e8;
   padding: 30px 0;
   text-align: center;
-  color: #828282; }
+  color: #828282;
+  font-size: 14px; }
   .site-footer a {
     color: #828282;
     margin: 0 10px; }
