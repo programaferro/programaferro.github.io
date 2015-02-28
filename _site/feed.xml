@@ -7,9 +7,20 @@
 </description>
     <link>http://programaferro.github.io/</link>
     <atom:link href="http://programaferro.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 21 Feb 2015 21:22:28 -0300</pubDate>
-    <lastBuildDate>Sat, 21 Feb 2015 21:22:28 -0300</lastBuildDate>
+    <pubDate>Sat, 28 Feb 2015 18:27:46 -0300</pubDate>
+    <lastBuildDate>Sat, 28 Feb 2015 18:27:46 -0300</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>The Prophetic Mystery Part 1</title>
+        <description>
+</description>
+        <pubDate>Sat, 28 Feb 2015 14:43:05 -0300</pubDate>
+        <link>http://programaferro.github.io/2015/02/28/show-03.html</link>
+        <guid isPermaLink="true">http://programaferro.github.io/2015/02/28/show-03.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Hollywood Secrets Part 2</title>
@@ -27,8 +38,8 @@
         <description>
 </description>
         <pubDate>Sat, 14 Feb 2015 14:43:05 -0300</pubDate>
-        <link>http://programaferro.github.io/2015/02/14/show-01%20copy.html</link>
-        <guid isPermaLink="true">http://programaferro.github.io/2015/02/14/show-01%20copy.html</guid>
+        <link>http://programaferro.github.io/2015/02/14/show-02.html</link>
+        <guid isPermaLink="true">http://programaferro.github.io/2015/02/14/show-02.html</guid>
         
         
       </item>
@@ -80,6 +91,33 @@
 <itunes:category text="TV &amp; Film" />
  
 <itunes:new-feed-url>http://www.fromthepub.com/podcast.xml</itunes:new-feed-url>
+ 
+ 
+ 
+ <item>
+ 
+ <title>The Prophetic Mystery Part 1</title>
+ 
+ <itunes:author>Darren Scott &amp; Adam Wilcox</itunes:author>
+ 
+ <itunes:subtitle>From The Pub: The Prophetic Mystery Part 1</itunes:subtitle>
+ 
+ <itunes:summary>
+</itunes:summary>
+ 
+ <itunes:image href="http://www.fromthepub.com/assets/itunes.jpg" />
+ 
+ <enclosure url="http://pubpodcast.s3.amazonaws.com/pub014.mp3" length="17068092" type="audio/x-m4a" />
+ 
+ <guid>http://pubpodcast.s3.amazonaws.com/pub014.mp3</guid>
+ 
+ <pubDate>Sat, 28 Feb 2015 14:43:05 GMT</pubDate>
+ 
+ <itunes:duration>1104.0</itunes:duration>
+ 
+ <itunes:keywords>uk,comedy,pub,news,talk,technology,web,adam,wilcox,darren,scott,radio,mix96,eagle,radio</itunes:keywords>
+ 
+ </item>
  
  
  
