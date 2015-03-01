@@ -1,35 +1,6 @@
 ---
 layout: null
 ---
-<!--
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
-      <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
-      </item>
-    {% endfor %}
-  </channel>
-</rss>
--->
  
 <?xml version="1.0" encoding="UTF-8"?>
  
@@ -37,33 +8,34 @@ layout: null
  
 <channel>
  
-<title>Programa Ferro</title>
+<title>Iron Radio Show</title>
  
-<link>http://programaferro.com/</link>
+<link>http://ironradioshow.com/</link>
  
-<language>pt</language>
+<language>en</language>
  
-<copyright>&#xA9; 2013 Darren Scott &amp; Adam Wilcox</copyright>
+<copyright>&#xA9; Iron Radio Show</copyright>
  
-<itunes:subtitle>Darren Scott and Adam Wilcox discuss stuff and drink.</itunes:subtitle>
+<itunes:subtitle>Strengthen your faith.</itunes:subtitle>
  
-<itunes:author>Adam Wilcox &amp; Darren Scott</itunes:author>
+<itunes:author>Iron Radio Show</itunes:author>
  
-<itunes:keywords>uk,comedy,pub,news,talk,technology,web,adam,wilcox,darren,scott,radio,mix,96,eagle,radio</itunes:keywords>
+<itunes:keywords>bible,christian,iron,radio,ferro,news,live,florianopolis,help,Scripture,God,Brazil,Faith,hope,love,Sara,spirit,
+Jesus,cross,heart,calvary,Lord,Missler,Good,Fight,Saturday,study,church,Sunday,worship</itunes:keywords>
  
-<itunes:summary>A podcast from Darren Scott and Adam Wilcox on all the things men talk about in the pub; news, films, computer games, Nazi Zombies, women and other aliens.</itunes:summary>
+<itunes:summary>A critical analysis of the scriptures to sharpen and strengthen your faith.</itunes:summary>
  
-<description>A podcast from Darren Scott and Adam Wilcox on all the things men talk about in the pub; news, films, computer games, Nazi Zombies, women and other aliens.</description>
+<description>The wisest man that ever lived, Solomon, said that as iron sharpens iron, so one man sharpens another. It is our prayer that as we critically analyze the scriptures, that the God-man Jesus Christ, who is greater than Solomon, will Himself sharpen and strengthen your heart mind and soul through the Bible, the sword of the Spirit, so that you might walk closer with Him through faith.</description>
  
 <itunes:owner>
  
-  <itunes:name>Adam Wilcox</itunes:name>
+  <itunes:name>Iron Radio Show</itunes:name>
  
-  <itunes:email>fromthepub@adamwilcox.org</itunes:email>
+  <itunes:email>ironradioshow@gmail.com</itunes:email>
  
 </itunes:owner>
  
-<itunes:image href="http://www.fromthepub.com/assets/itunes.jpg" />
+<itunes:image href="http://programaferro.github.io/img/logo-itunes.jpg" />
  
 <itunes:category text="Comedy" />
  
@@ -73,7 +45,7 @@ layout: null
  
 <itunes:category text="TV &amp; Film" />
  
-<itunes:new-feed-url>http://www.fromthepub.com/podcast.xml</itunes:new-feed-url>
+<itunes:new-feed-url>http://programaferro.github.io/feed.xml</itunes:new-feed-url>
  
  {% for post in site.posts limit:10 %}
  
@@ -81,23 +53,23 @@ layout: null
  
  <title>{{ post.title }}</title>
  
- <itunes:author>Darren Scott &amp; Adam Wilcox</itunes:author>
+ <itunes:author>Iron Radio Show</itunes:author>
  
- <itunes:subtitle>From The Pub: {{ post.title }}</itunes:subtitle>
+ <itunes:subtitle>{{ post.subtitle }}</itunes:subtitle>
  
- <itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
+ <itunes:summary>{{ post.summary }}</itunes:summary>
  
- <itunes:image href="http://www.fromthepub.com/assets/itunes.jpg" />
+ <itunes:image href="http://programaferro.github.io/img/logo-itunes.jpg" />
  
- <enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/x-m4a" />
- 
+ <enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/mpeg" />
+  
  <guid>{{ post.link }}</guid>
  
  <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
  
  <itunes:duration>{{ post.duration }}</itunes:duration>
  
- <itunes:keywords>uk,comedy,pub,news,talk,technology,web,adam,wilcox,darren,scott,radio,mix96,eagle,radio</itunes:keywords>
+ <itunes:keywords>{{ post.keywords }}</itunes:keywords>
  
  </item>
  

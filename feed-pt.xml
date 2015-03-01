@@ -1,0 +1,81 @@
+---
+layout: null
+---
+ 
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+ 
+<channel>
+ 
+<title>Programa Ferro</title>
+ 
+<link>http://programaferro.com/</link>
+ 
+<language>pt</language>
+ 
+<copyright>&#xA9; Iron Radio Show</copyright>
+ 
+<itunes:subtitle>Fortaleça sua fé</itunes:subtitle>
+ 
+<itunes:author>Programa Ferro</itunes:author>
+ 
+<itunes:keywords>bible,Cristão,iron,radio,ferro,biblia,noticia,vivo,florianopolis,brasil,estudo,ajuda,Escrituras,Deus,fé,Sara,Espiritu,
+Jesus,coração,rede,Senhor,Missler,Good,Fight,radio,sabado</itunes:keywords>
+ 
+<itunes:summary>Uma análise profunda das Escrituras para afiar e fortalecer sua fé.</itunes:summary>
+ 
+<description>O homem mais sábio que já viveu, Salomão, disse que, como o ferro afia o ferro, o homem afia o homem . A nossa oração é que a medida que analisarmos criticamente as escrituras, que o Deus-homem Jesus Cristo, que é maior que Salomão, nos afie e fortaleça o seu coração mente e alma através da Bíblia, a espada do Espírito, de modo que você possa ter mais intimidade com Ele através da fé.</description>
+ 
+<itunes:owner>
+ 
+  <itunes:name>Programa Ferro</itunes:name>
+ 
+  <itunes:email>programaferro@gmail.com</itunes:email>
+ 
+</itunes:owner>
+ 
+<itunes:image href="http://programaferro.github.io/img/logo-itunes.jpg" />
+ 
+<itunes:category text="Comedy" />
+ 
+<itunes:category text="Society &amp; Culture" />
+ 
+<itunes:category text="Technology" />
+ 
+<itunes:category text="TV &amp; Film" />
+ 
+<itunes:new-feed-url>http://programaferro.github.io/feed-pt.xml</itunes:new-feed-url>
+ 
+ 
+ {% for post in site.posts limit:10 %}
+ 
+ <item>
+ 
+ <title>{{ post.title-pt }}</title>
+ 
+ <itunes:author>Programa Ferro</itunes:author>
+ 
+ <itunes:subtitle>{{ post.subtitle-pt }}</itunes:subtitle>
+ 
+ <itunes:summary>{{ post.summary-pt }}</itunes:summary>
+ 
+ <itunes:image href="http://programaferro.github.io/img/logo-itunes.jpg" />
+ 
+ <enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/mpeg" />
+  
+ <guid>{{ post.link }}</guid>
+ 
+ <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
+ 
+ <itunes:duration>{{ post.duration }}</itunes:duration>
+ 
+ <itunes:keywords>{{ post.keywords-pt }}</itunes:keywords>
+ 
+ </item>
+ 
+ {% endfor %}
+ 
+</channel>
+ 
+</rss>

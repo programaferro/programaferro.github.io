@@ -1,0 +1,39 @@
+---
+layout: default-pt
+---
+
+<div class="home">
+
+<a class="flag" href="index.html"><img src="img/USA.png" alt="USA" width="24" height="24" /> English</a>
+
+    <h1 class="page-heading">Próximo Sábado</h1>
+    <h2>O Mistério Profético Parte 2</h2>
+    <p>A maioria dos cristãos querem mais do poder de Deus em suas vidas, mas nunca fazem uma coisa específica que a Bíblia diz que vai trazer este poder. Ouça o que a Bíblia diz  sobre uma das maneiras mais negligenciadas para melhorar  o nosso relacionamento com o Senhor.</p>
+          
+  <h1 class="page-heading">Programas anteriores</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+<!--
+          <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+-->
+        <h2>{{ post.title-pt }}</h2>
+        <p>{{ post.audio }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+
+
+
+</div>
+ 
+ 
+ 
+ 
+ 
+ 

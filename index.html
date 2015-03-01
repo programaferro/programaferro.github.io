@@ -3,13 +3,14 @@ layout: default
 ---
 
 <div class="home">
+  
+<a class="flag" href="index-pt.html"><img src="img/Brazil.png" alt="Brazil" width="24" height="24" /> Portugues</a>
 
-    <h1 class="page-heading">Next Saturday • <em>Próximo Sábado</em></h1>
+    <h1 class="page-heading">Next Saturday</h1>
     <h2>The Prophetic Mystery Part 2</h2>
     <p>Most Christians want more of God's power in their lives, but never do the one specific thing the Bible says will bring it. Hear what the bible has to say about one of the most neglected ways to fast track our relationship with the Lord.</p>
-     <p><em>A maioria dos cristãos querem mais do poder de Deus em suas vidas, mas nunca fazem uma coisa específica que a Bíblia diz que vai trazer este poder. Ouça o que a Bíblia diz  sobre uma das maneiras mais negligenciadas para melhorar  o nosso relacionamento com o Senhor.</em></p>
           
-  <h1 class="page-heading">Previous Shows • <em>Programas anteriores</em></h1>
+  <h1 class="page-heading">Previous Shows</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
@@ -21,6 +22,7 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
 -->
+
         <h2>{{ post.title }}</h2>
         <p>{{ post.audio }}</p>
       </li>
