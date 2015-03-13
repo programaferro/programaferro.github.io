@@ -61,7 +61,7 @@ Jesus,coração,rede,Senhor,Missler,Good,Fight,radio,sabado</itunes:keywords>
  
  <itunes:image href="http://programaferro.github.io/img/logo-itunes.jpg" />
  
- <enclosure url="{{ post.link-pt }}" length="{{ post.length }}" type="audio/mpeg" />
+ <enclosure url="{{ post.link-pt }}" length="{{ post.length-pt }}" type="audio/mpeg" />
   
  <guid>{{ post.link }}</guid>
  
