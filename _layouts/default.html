@@ -1,11 +1,17 @@
 <!DOCTYPE html>
 <html>
-
+  
   {% include head.html %}
 
   <body>
 
+  {% if page.post == true %}
+    {% include header-post.html %}
+  {% else %}
     {% include header.html %}
+  {% endif %}
+  
+
 
     <div class="page-content">
       <div class="wrapper">
@@ -13,7 +19,11 @@
       </div>
     </div>
 
+  {% if page.post == true %}
+  {% else %}
     {% include footer.html %}
+  {% endif %}
+
 
   </body>
 

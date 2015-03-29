@@ -1,4 +1,5 @@
 ---
+post: true
 layout: post
 title:  "Hollywood Secrets Part 1"
 title-pt:  "Segredos de Hollywood Parte 1"

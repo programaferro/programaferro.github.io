@@ -1,4 +1,5 @@
 ---
+post: true
 layout: post
 date:   2015-02-28 17:43:05
 title:  "The Prophetic Mystery Part 1"
