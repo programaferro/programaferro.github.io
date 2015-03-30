@@ -1,5 +1,6 @@
 ---
-layout: null
+layout: none
+lang: pt
 ---
  
 <?xml version="1.0" encoding="UTF-8"?>
@@ -47,17 +48,18 @@ Jesus,coração,rede,Senhor,Missler,Good,Fight,radio,sabado</itunes:keywords>
  
 <itunes:new-feed-url>http://programaferro.github.io/feed-pt.xml</itunes:new-feed-url>
  
- {% for post in site.posts limit:10 %}
+{% assign posts=site.posts | where:"lang", page.lang %}
+{% for post in posts %}
  
  <item>
  
- <title>{{ post.title-pt }}</title>
+ <title>{{ post.title }}</title>
  
  <itunes:author>Programa Ferro</itunes:author>
  
- <itunes:subtitle>{{ post.subtitle-pt }}</itunes:subtitle>
+ <itunes:subtitle>{{ post.subtitle }}</itunes:subtitle>
  
- <itunes:summary>{{ post.summary-pt }}</itunes:summary>
+ <itunes:summary>{{ post.summary }}</itunes:summary>
  
  <itunes:image href="http://programaferro.github.io/img/logo-itunes.jpg" />
  
@@ -67,9 +69,9 @@ Jesus,coração,rede,Senhor,Missler,Good,Fight,radio,sabado</itunes:keywords>
  
  <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
  
- <itunes:duration>{{ post.duration-pt }}</itunes:duration>
+ <itunes:duration>{{ post.duration }}</itunes:duration>
  
- <itunes:keywords>{{ post.keywords-pt }}</itunes:keywords>
+ <itunes:keywords>{{ post.keywords }}</itunes:keywords>
  
  </item>
  

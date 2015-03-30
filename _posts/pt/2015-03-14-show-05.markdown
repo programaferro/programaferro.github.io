@@ -1,0 +1,21 @@
+---
+layout: post-pt
+post: true
+lang: pt
+categories:
+    - pt
+date:   2015-03-14 17:43:05
+title:  "O Mistério Profético Parte 3"
+subtitle: "O Mistério Profético Parte 3"
+summary: "A maioria dos cristãos querem mais do poder de Deus em suas vidas  mas nunca fazem uma coisa específica que a Bíblia diz que vai trazer este poder. Ouça o que a Bíblia diz sobre uma das maneiras mais negligenciadas para melhorar o nosso relacionamento com o Senhor."
+audio:  <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/195772020&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+duration: 32:43
+length: 134562050
+link: https://s3-us-west-2.amazonaws.com/programaferro/%235+-+Programa+Ferro+14032015.mp3
+keywords: "satan,anti-Christ,church,portuguese,mystery,prophetic,prophecy,end,times,Israel,Jerusalem,Jesus,Isaiah,radio,sara,brazil,saturday,
+Jews,hope,faith,love,Torah,fast,fasting,power,God,Lord,programa,ferro,iron,show,Christian,second,coming,Florianopolis,
+ISIS,Islamic,state,Temple,Mount "
+---
+
+
+

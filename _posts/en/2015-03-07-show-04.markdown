@@ -1,21 +1,17 @@
 ---
 post: true
 layout: post
+lang: en
+categories:
+    - es
 date:   2015-03-07 17:43:05
 title:  "The Prophetic Mystery Part 2"
-title-pt:  "O Mistério Profético Parte 2"
 subtitle: "The Prophetic Mystery Part 2"
-subtitle-pt: "O Mistério Profético Parte 2"
 summary: "Most Christians want more of God's power in their lives  but never do the one specific thing the Bible says will bring it. Hear what the bible has to say about one of the most neglected ways to fast track our relationship with the Lord."
-summary-pt: "A maioria dos cristãos querem mais do poder de Deus em suas vidas  mas nunca fazem uma coisa específica que a Bíblia diz que vai trazer este poder. Ouça o que a Bíblia diz sobre uma das maneiras mais negligenciadas para melhorar o nosso relacionamento com o Senhor."
-audio-pt:  <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/194621363&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 audio: <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/195260771&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 duration: 53:21
-duration-pt: 32:43
 length: 78518856
-length-pt: 128035525
 link: https://s3-us-west-2.amazonaws.com/ironradioshow/Prophetic+Mystery+Part+2+(English).mp3
-link-pt: https://s3-us-west-2.amazonaws.com/programaferro/%234+-+Programa+Ferro+07032015.mp3
 keywords: "satan anti-Christ church portuguese mystery prophetic prophecy end  times israel jerusalem Jesus isaiah radio sara brazil saturday do something diferent fast fasting power God Lord programa ferro iron radio show"
 keywords-pt: "satan anti-Christ church portuguese mystery prophetic prophecy end  times israel jerusalem Jesus isaiah radio sara brazil saturday do something diferent fast fasting power God Lord programa ferro iron radio show "
 ---
