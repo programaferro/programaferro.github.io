@@ -13,19 +13,19 @@ markdown: kramdown
 
 
 # Language settings
-defaults:
-  -
-    scope:
-      path: _posts/en
-    values:
-      layout: default
-      lang: en
-  -
-    scope:
-      path: _posts/pt
-    values:
-      layout: default
-      lang: pt
-
-
- permalink: /:title/
+#defaults:
+#  -
+#    scope:
+#      path: _posts/en
+#    values:
+#      layout: default
+#      lang: en
+#  -
+#    scope:
+#      path: _posts/pt
+#    values:
+#      layout: default
+#      lang: pt
+#
+#
+# permalink: /:title/
