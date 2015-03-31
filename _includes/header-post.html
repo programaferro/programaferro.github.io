@@ -2,8 +2,15 @@
 
   <div class="wrapper">
     
+    
     <p class="back-home">
-      <a href="/"><i class="fa fa-home fa-lg"></i> Home</a>
+
+        {% if page.lang == 'en' %}
+          <a href="/"><i class="fa fa-home fa-lg"></i> Home</a>
+        {% elsif page.lang == 'pt' %}
+          <a href="/index-pt.html"><i class="fa fa-home fa-lg"></i> Voltar</a>
+        {% endif %}
+
     </p>
 
   </div>
