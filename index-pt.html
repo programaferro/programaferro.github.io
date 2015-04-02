@@ -45,7 +45,10 @@ lang: pt
           <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        <p>{{ post.audio }}</p>
+        <p class="post-audio">
+          <a href="{{ post.url | prepend: site.baseurl }}"></a>
+          {{ post.audio }}
+        </p>
       </li>
 
 {% endfor %}
