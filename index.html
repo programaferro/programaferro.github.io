@@ -22,34 +22,20 @@ lang: en
           
   <h1 class="page-heading">Previous Shows</h1>
 
-<!--
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-          <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <p>{{ post.audio }}</p>
-      </li>
-    {% endfor %}
-  </ul>
--->
-
-
 
 {% assign posts=site.posts | where:"lang", page.lang %}
 <ul class="post-list">
 {% for post in posts %}
-<!--        <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a> -->
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
           <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        <p>{{ post.audio }}</p>
+        <p class="post-audio">
+          <a href="{{ post.url | prepend: site.baseurl }}"></a>
+          {{ post.audio }}
+        </p>
       </li>
-
 {% endfor %}
 </ul>
 

@@ -239,6 +239,10 @@
     border-radius: 3px;
 }
 
+.post-body{
+  background: #000;
+  color: #fff;
+}
 .post-list {
     margin-left: 0;
     list-style: none;
@@ -256,6 +260,21 @@
 .post-link {
     display: block;
     font-size: 24px;
+}
+
+.post-audio {
+  position: relative;
+  a{
+//    background: red;
+//    height: 200px;
+//    width: 200px;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
 }
 
 
