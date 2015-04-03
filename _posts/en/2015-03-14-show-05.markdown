@@ -3,7 +3,7 @@ post: true
 layout: post
 lang: en
 categories:
-    - es
+    - en
 date:   2015-03-14 17:43:05
 title:  "The Prophetic Mystery Part 3"
 subtitle: "The Prophetic Mystery Part 3"

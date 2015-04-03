@@ -3,7 +3,7 @@ post: true
 layout: post
 lang: en
 categories:
-    - es
+    - en
 date:   2015-02-21 17:43:05
 title:  "Hollywood Secrets Part 2"
 subtitle: "Shocking confessions of Hollywood celebrities."
