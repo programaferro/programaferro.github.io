@@ -1,6 +1,6 @@
 ---
 post: true
-layout: post
+layout: post-pt
 lang: pt
 categories:
     - pt    
