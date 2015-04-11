@@ -36,11 +36,12 @@ Jesus,coração,rede,Senhor,Missler,Good,Fight,radio,sabado</itunes:keywords>
  
 </itunes:owner>
  
-<itunes:image href="http://programaferro.github.io/img/logo-itunes.jpg" />
+<itunes:image href="http://programaferro.github.io/img/logo-itunes-pt.jpg" />
            
-<itunes:category text="Society &amp; Culture" />
-
-<itunes:category text="History" />
+<itunes:category text="Religion &amp; Spirituality">
+  <itunes:category text="Christianity" />
+</itunes:category>
+ 
  
 <itunes:new-feed-url>http://programaferro.github.io/feed-pt.xml</itunes:new-feed-url>
  

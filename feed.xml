@@ -37,14 +37,10 @@ Jesus,cross,heart,calvary,Lord,Missler,Good,Fight,Saturday,study,church,Sunday,w
 </itunes:owner>
  
 <itunes:image href="http://programaferro.github.io/img/logo-itunes.jpg" />
-           
-<itunes:category text="Society &amp; Culture" />
 
-<itunes:category text="Christianity" />
-
-<itunes:category text="Society &amp; Culture" /> 
-
-<itunes:category text="History" />
+<itunes:category text="Religion &amp; Spirituality">
+  <itunes:category text="Christianity" />
+</itunes:category>
  
 <itunes:new-feed-url>http://programaferro.github.io/feed.xml</itunes:new-feed-url>
  
