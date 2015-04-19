@@ -1,33 +1,35 @@
 ---
 layout: default
-lang: en
 ---
+
 <div class="post">
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
     
-    <!--
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-    
-    -->
     
   </header>
 
   <article class="post-content">
-<!--     {{ content }} 
-    
-    <h3>{{ page.subtitle }}</h3>
-    <h3>{{ page.subtitle-pt }}</h3>
-    -->
     <p>
       {{ page.audio }}
     </p>
-    
+
+
+{% if page.lang == "en" %}
     <p>If you like it, our hope is that you will share it with 7 people!</p>
+    
     <p>
         <a href="whatsapp://send" data-text="Take a look at this website. You have to hear this!" data-href="" class="wa_btn wa_btn_l" style="display:none">Share on Whatsapp</a
     </p>
+{% elsif page.lang == "pt" %}
+    <p>Se você gostou, nosso desejo é que você o compartilhe com 7 pessoas!</p>
+    <p>
+        <a href="whatsapp://send" data-text="Você tem que ver isto!" data-href="" class="wa_btn wa_btn_l" style="display:none">Compartilhe no Whatsapp</a
+    </p>
+{% endif %}
+
+
     <p>
 <!--        <span class='st_sharethis_large' displayText='ShareThis'></span> -->
         <span class='st_email_large' displayText='Email'></span>
