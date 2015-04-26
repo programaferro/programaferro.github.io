@@ -13,5 +13,4 @@ duration: 33:28
 length: 80312946
 link: https://s3-us-west-2.amazonaws.com/ironradioshow/%23+3+Prophetic+Mystery+Part+1+(English).mp3
 keywords: "satan anti-Christ church portuguese mystery prophetic prophecy end  times israel jerusalem Jesus isaiah radio sara brazil saturday do something diferent fast fasting power God Lord programa ferro iron radio show"
-keywords-pt: "satan anti-Christ church portuguese mystery prophetic prophecy end  times israel jerusalem Jesus isaiah radio sara brazil saturday do something diferent fast fasting power God Lord programa ferro iron radio show "
 ---

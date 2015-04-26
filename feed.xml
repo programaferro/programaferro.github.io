@@ -1,6 +1,5 @@
 ---
 layout: null
-lang: en
 ---
  
 <?xml version="1.0" encoding="UTF-8"?>
@@ -44,7 +43,7 @@ Jesus,cross,heart,calvary,Lord,Missler,Good,Fight,Saturday,study,church,Sunday,w
  
 <itunes:new-feed-url>http://programaferro.github.io/feed.xml</itunes:new-feed-url>
  
-{% assign posts=site.posts | where:"lang", page.lang %}
+{% assign posts=site.posts | where:"lang", "en" %}
 {% for post in posts %}
  
  <item>
