@@ -1,0 +1,19 @@
+---
+post: true
+layout: post
+lang: en
+categories:
+    - en
+date: 2015-05-02 12:00:00
+title: "The Fast And The Furious Part 1"
+subtitle: "The Fast And The Furious Part 1"
+summary: "Why is the most popular belief in the church today identical to the most popular movie series of all time? And just as Paul Walker's life ended tragically,  why will this belief also end in tragedy for many Christians? Is the mainstream church missing something monumental that will lead many Christians to disaster? Find out where you stand on this important issue so that you are not deceived and become a casualty. Join us,  for quite possibly one of the most important shows we may ever have regarding what the bible specifically says about the future."
+keywords: "Rome, PaxRomana, Jews, Peace, Religion, Religious, Doctrine, Messiah, Scriptures, Jesus, Blessing, Promise, Hitler, Mainstream, Life, Jerusalem, Truth, Popular, Future, Facebook, VinDiesel, PaulWalker, JordanaBrewster, John, Bible, Deception, Fast, Furious, Holocoust, Rapture, Tribulation, Hebrew, Repent, Lord, True, Prophecy, Prophetic, Warning, Holy, Spirit, World, Persecution, Slave, Persecuted, Pain, Fire, Christ, Apostles, Disciples, Overcome, Cross, Resurrection, Iron, Radio, Brazil, Florianopolis, Gathering, PreTribulation, PostTribulation, Judaism, Israel, Jerusalem, Believers, Second, Coming, DwayneJohnson, JasonStatham, MichelleRodriguez, TyreseGibson, Ludacris, ElsaPataky, Verse, 10000, Dollars, Before, 7Year, AntiChrist, Church, Calendar, Alien, History, Furious7, Biblical, controversy, Jews, Pharisees, Disciples, Jews, King, Death, Satan, History, AntiChrist, Christ, Revelation, Chaos, Christian, Pre, Post"
+audio: <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/203214089&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+duration: 52:01
+length: 124843362
+link:  https://s3-us-west-2.amazonaws.com/ironradioshow/%2312+Fast+And+The+Furious+Part+1+(English).mp3
+---
+
+
+
