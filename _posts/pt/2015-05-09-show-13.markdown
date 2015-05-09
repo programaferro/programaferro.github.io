@@ -1,0 +1,16 @@
+---
+post: true
+layout: post
+lang: pt
+categories:
+    - pt    
+date: 2015-05-09 12:04:00
+title: "A Página Do Facebook Do Anticristo: Islão"
+subtitle: "A Página Do Facebook Do Anticristo: Islão"
+summary: "Conhece a descrição bíblica do Anticristo? Ouça enquanto continuamos nosso estudo sobre as expectativas específicas e denominador comum dos políticos globalistas,  muçulmanos,  nanotecnologia,  transhumanistas e nova era. Usando notícias do mundo e eventos atuais iremos comparar estas expectativas com as descrições bíblicas do anticristo e ver como estes manuscritos que foram escritos há milhares de anos são 100% exato."
+keywords: "Bíblia, islão, cristão, católico, guerras, fim, dos, tempos, apocalipse, Jesus, Profecia, Tribulação, Judaísmo, AntiCristo, Cristo, gnóstico, gnosticismo, futuro, profecia, profeta, satã, demônios, besta, evangelho, Escrituras, Morte, Oriente, Médio, Facebook, página, muçulmanos, mundo, notícia, eventos, Discípulos, Controvérsia, Pacto, Expiação, Sangue, Substituto, Templo, Judeus, Fariseus, Arrebatamento, Hebraico, Calendários, Primeiro, Vinda, Segundo, Messias, Rei, Antigo, Culturas, História, Mundo, Revelação, Caos, Programa, Ferro, Brasil, Florainopolis, Page, globalist, bíblico, políticos, Nanotechnologia, transumanistas, nova, era, atual, manuscritos, Irã, Nanotech, Isis, Babilônia, Roma, Istambul, Peru, casa, rocha, hinos, persa"
+audio: <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/204451386&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+duration: 56:18
+length: 135125158 
+link: https://s3-us-west-2.amazonaws.com/programaferro/%2313+-+Programa+Ferro+09052015.mp3
+---
