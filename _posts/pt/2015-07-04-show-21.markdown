@@ -1,0 +1,16 @@
+---
+post: true
+layout: post
+lang: pt
+categories:
+    - pt    
+date: 2015-07-04 12:00:00
+title: "A Bíblia,  A Televisão Eo Demônio"
+subtitle: "A Bíblia,  A Televisão Eo Demônio"
+summary: "Quais histórias você se relaciona melhor ? As histórias da Bíblia,  inspiradas pelo Espírito de Deus ... ou as histórias de Hollywood,  inspiradas por demônios? Junte-se a nós ao examinarmos as provas da inspiração das Escrituras,  bem como a prova para a inspiração demoníaca por trás dos atores mais famosos da indústria do cinema."
+keywords: "Deus, Demônio, Televisão, Hollywood, Beverly, Hills, Oscars, Golden, Globes, Denzel, Washington, Bruja, Brad, Pitt, Robin, Williams, Halle, Berry, Vin, Diesel, TV, Paul, Walker, Fast, Furious, Oprah, Sandra, Bullock, Johnny, Depp, Robert, Deniro, Gangster, Snoop, Steven, Speilberg, Star, Wars, Avatar, Jurassic, Park, satânico, satã, elite, demônios, possesso, filme, filme, ator, atriz, evolução, Bíblia, Cristão, iron, radio, ProgramaFerro, biblia, noticia, vivo, Florianopolis, brasil, estudo, ajuda, Escrituras, Deus, fé, Sara, Espiritu, Jesus, coração, rede, Senhor, radio, sabado, rocha, evangelho, hinos, igreja, notícia, eventos, atual, História, AntiCristo, Cristo, Escrituras, Messias, Rei, Antigo, Judaísmo, Templo, Jesus, amor, Misterio, Profetico, Jejum, cristãos, Discípulos, Morte, Facebook, Controvérsia, Pacto, Expiação, Sangue, Substituto, Templo, Jesus, Judeus, Fariseus, Hebraico, Escrituras, Profecia, Tribulação, Judaísmo, Calendários, Primeiro, Vinda, Segundo, Escrituras, Messias, Rei, Antigo, Culturas, Bíblia, História, AntiCristo, Cristo, Mundo, Revelação, Caos, bíblico, nova, era, mundo, manuscritos, besta, gnóstico, gnosticismo, futuro, profecia, profeta, satã, demônios, podcast, católico, guerras, fim, dos, tempos, apocalipse, Oriente, Médio, página, Culturas, Programa, Ferro, casa"
+audio: <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/213002143&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+duration: 1:08:31
+length: 164430366
+link: https://s3-us-west-2.amazonaws.com/programaferro/%2321+-+Programa+Ferro+04072015.mp3
+---
