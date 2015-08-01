@@ -1,24 +1,27 @@
 ---
-layout: default
-lang: en
+layout: default-pt
+lang: pt
 ---
 
 <div class="home">
   
-<a class="flag" href="index-pt.html"><img src="img/Brazil.png" alt="Brazil" width="24" height="24" /> Portugues</a>
+<a class="flag" href="index-pt.html"><img src="/img/USA.png" alt="USA" width="24" height="24" /> English</a>
 
-    <h1 class="page-heading">Coming Soon</h1>
-    <h2>The Fast and the Furious: The Objections 3.0</h2>
+  <h1 class="page-heading">Próximo Sábado</h1>
     
-    <p>If something is true then it can stand up to the most critical objections, right?</p>
+  <h2>Cinquenta Tons De Liberdade</h2>
+  <p>Relacionamentos de ESMD (Escravidão, Sado-Masoquismo, Dominação) estão agora se tornando popular e irônicos. Mas, surpreendentemente, muitos homens e mulheres têm tido relacionamentos BDSM, mas não percebem isso.</p>
+    
+  <p>Você é uma dessas pessoas, tem tido um relacionamento desses? Você ficará chocado ao descobrir que você provavelmente é.</p>
+    
+  <p>E se o filme instruir-nos com precisão a forma de encontrar e participar no encontro mais incrível de nossas vidas? Junte-se a nós na próxima semana ao procurarmos respostas e descobrir como podemos ser verdadeiramente libertos.</p>  
+    
+  <h1 class="page-heading">Programas anteriores</h1>
 
-    <p>Join us as we examine the most common objections to the futuristic view of prophecy in the scriptures. Find out if what you believe passes or fails the tests and what you can do about it.</p>
-
-    <h1 class="page-heading">Previous Shows</h1>
 
 {% assign posts=site.posts | where:"lang", page.lang %}
 <ul class="post-list">
-{% for post in posts %}
+{% for post in paginator.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
           <h2>
@@ -31,6 +34,22 @@ lang: en
       </li>
 {% endfor %}
 </ul>
+
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
 
 
 </div>
