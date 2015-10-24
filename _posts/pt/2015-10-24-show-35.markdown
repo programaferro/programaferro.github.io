@@ -1,0 +1,16 @@
+---
+post: true
+layout: post
+lang: pt
+categories:
+    - pt    
+date: 2015-10-24 12:00:00
+title: "Os Dez Mandamentos: O Mistério do Faraó Parte 2"
+subtitle: "Os Dez Mandamentos: O Mistério do Faraó Parte 2"
+summary: "Junte-se a nós para descobrir o mistério do faraó em Romanos 9:1-11,  um dos capítulos mais difíceis de toda a Bíblia."
+keywords: "Deus, God, Romanos, Romans, slave, escravo, Egito, êxodo, faraó, Hebreus, israelitas, Israel, pragas, páscoa, ZÍPORA, Os, Dez, Mandamentosfermento, Paul, Paulo, Ramses, Moses, Moisés, Ziporah, Jochebed, Miriam, Aaron, tribes, Giselle, Itié, televisão, Sérgio, Marone, calvinismo, calvanism, prisoners, prisioneiros, kingdom, hall, libertado, liberdade, carnalidade, por, tras, das, cenas, behind, the, scenes, lonely, jogos, games, ansiedade, anxiety, relacionamento, relationship, consciência, consciousess, Flesh, Demônio, , satânico, evolução, Bíblia, Cristão, iron, radio, ProgramaFerro, biblia, noticia, vivo, Florianopolis, brasil, estudo, ajuda, Escrituras, Deus, fé, Sara, Espiritu, Jesus, coração, rede, Senhor, radio, sabado, rocha, evangelho, hinos, igreja, notícia, eventos, atual, História, AntiCristo, Cristo, Escrituras, Scripture, Messias, Rei, Antigo, Judaísmo, Templo, Jesus, amor, love, Misterio, Profetico, Jejum, cristãos, Discípulos, Morte, Facebook, Controvérsia, Pacto, Expiação, Sangue, Substituto, Judeus, Jews, Fariseus, Hebraico, Hebrew, Escrituras, Scripture, Profecia, Prophecy, Tribulação, Tribulation, Judaísmo, Judaism, Calendários, Calendar, Primeiro, First, Vinda, Coming, Segundo, Second, Messias, Rei, Antigo, Culturas, Bíblia, História, AntiCristo, Cristo, Mundo, Revelação, Caos, bíblico, nova, era, mundo, manuscritos, besta, gnóstico, gnosticismo, futuro, profecia, profeta, satã, demônios, podcast, católico, guerras, fim, dos, tempos, apocalipse, Oriente, Médio, página, Culturas, Programa, Ferro, casa"
+audio: <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/229801426&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+duration: 53:01
+length: 127228864
+link: https://s3-us-west-2.amazonaws.com/programaferro/%2335+-+Programa+Ferro+24102015.mp3
+---
